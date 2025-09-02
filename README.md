@@ -43,9 +43,9 @@
 
 [CAPITULO 1 - Variables CSS y Custom Properties]
 
-[CAPITULO 2]
+[CAPITULO 2 - Funciones CSS (calc(), clamp(), min(), max())]
 
-[CAPITULO 3]
+[CAPITULO 3 - Grid Layout Avanzado (Áreas de grid, auto-fit, auto-fill)]
 
 [CAPITULO 4]
 
